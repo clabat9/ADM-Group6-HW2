@@ -15,12 +15,19 @@ They're .csv files well organized with so many interesting feature. You can chec
 
 To get a better visualization we need to know which borough a certain zone relates to . So another useful dataset is taxi_zone_lookup.csv, available on the same page.
 
-## Script descriptions
+## Script and Other files descriptions
 
 1. __`Hw2_lib.py`__: 
 	This script contains all the useful functions to get the proposed analysis deeply commented to have a clear view of the logic behind.
 
-
+2. __`zones.htm`__: 
+	This html files contains a NY map that higlights the zone where data were recorded.
+	
+3. __`picks.html`__: 
+	This html file contains a Ny Choroplet map that takes in account the number of taxi picks.
+	
+4. __`drops.html`__: 
+	This html file contains a Ny Choroplet map that takes in account the number of taxi drops.
 
 ## `IPython Notebook: Homework2.ipnb`
 The goal of the `Notebook` is to provide a storytelling friendly format that shows how to use the implemented code and to carry out the analysis.
