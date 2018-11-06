@@ -22,7 +22,7 @@ To get a better visualization we need to know which borough a certain zone relat
 
 
 
-## `IPython Notebook: Homework2.ipnb` <a name ="example"></a>
+## `IPython Notebook: Homework2.ipnb`
 The goal of the `Notebook` is to provide a storytelling friendly format that shows how to use the implemented code and to carry out the analysis.
 I tried to organize it in a way the reader can follow our logic and conlcusions.
 
