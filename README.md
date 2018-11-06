@@ -7,7 +7,7 @@ The proposed scripts allow you to explore some features about taxis' behaviour.
 
 ### Download sets of taxi movments
 
-The data in usage are available on [Taxi in NYC(http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml). 
+The data in usage are available on [Taxi in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml). 
 They're .csv files well organized with so many interesting feature. You can check the data dictionary present on the same page of downloads.
 
 
