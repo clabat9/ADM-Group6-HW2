@@ -1,19 +1,19 @@
 # ADM-Group6-HW2
 # Analyze how and where taxi moved in NYC in the first semester.
 
-The proposed scripts allow you to explore some features about taxis' behaviour.
+The proposed scripts allow you to explore some features about taxis' behaviour in NYC.
 
 ## Get data to analyze
 
 ### Download sets of taxi movments
 
 The data in usage are available on [Taxi in NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml). 
-They're .csv files well organized with so many interesting feature. You can check the data dictionary present on the same page of downloads.
+They're .csv files well organized with so many interesting features. You can check the data dictionary present on the same page of downloads.
 
 
 ### Additional data
 
-To get a better visualization we need to know which borough a certain zone relates to . So another useful dataset is taxi_zone_lookup.csv, available on the same page.
+To get a better visualization we need to know which borough a certain zone relates to  . So another useful dataset is taxi_zone_lookup.csv, available on the same page.
 
 ## Script and Other files descriptions
 
