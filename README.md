@@ -29,6 +29,6 @@ To get a better visualization we need to know which borough a certain zone relat
 4. __`drops.html`__: 
 	This html file contains a Ny Choroplet map that takes in account the number of taxi drops.
 
-## `IPython Notebook: Homework2f.ipynb`
+## `IPython Notebook: Homework2.ipynb`
 The goal of the `Notebook` is to provide a storytelling friendly format that shows how to use the implemented code and to carry out the analysis.
 I tried to organize it in a way the reader can follow our logic and conlcusions.
